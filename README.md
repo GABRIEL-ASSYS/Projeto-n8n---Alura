@@ -34,7 +34,7 @@ Durante o desenvolvimento deste projeto, aprendi a:
 ## ✒️ Autores
 
 * Gabriel Assys <br>
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabriel_brachak/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gabriel-assys/)
 <br/>
 <img src="https://github.com/GABRIEL-ASSYS/Octocat/blob/main/octocat-1674837986440.png" width="150" height="150"/>
 
